@@ -54,6 +54,7 @@ Tidak ada materi dalam modul ini, berisi 8 soal
 - Setiap modul berisi **kode C++** yang telah diuji dan didokumentasikan.  
 - Perubahan dan tambahan akan dilakukan seiring dengan jalannya praktikum.  
 - c artinya cekpoin dan p artinya percobaan.
+- c11 artinya cekpoin 1 soal nomer 1 (terkadang ada cekpoin yang didalamnya berisi beberapa soal, tidak hanya satu).
 ---
 
 📌 **Repository ini akan terus diperbarui sesuai dengan perkembangan praktikum. Stay tuned!**  
